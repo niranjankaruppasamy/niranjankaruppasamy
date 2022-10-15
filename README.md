@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niranjankaruppasamy
-- 👀 I’m interested in Softeare Engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on Anything😊
 - 📫 How to reach me niranjankaruppasamy@protonmail.com
