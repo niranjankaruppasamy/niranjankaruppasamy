@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niranjankaruppasamy
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on Anything😊
+- 🌱 I’m currently learning Networking
+- 💞️ I’m looking to collaborate on system level softwares
 - 📫 How to reach me niranjankaruppasamy@protonmail.com
 
 <!---
